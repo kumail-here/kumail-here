@@ -3,9 +3,8 @@ About Me:
 Hello! I'm Kumail Raza, a passionate developer with a love for creating efficient and innovative solutions. My expertise spans across various programming languages and technologies, and I'm always eager to learn and take on new challenges.
 
 Skills:
-Languages: JavaScript, Python, Java, C++
-Web Development: HTML, CSS, React, Node.js
-Databases: MySQL, MongoDB
+Languages: JavaScript, C++
+Web Development: HTML, CSS
 Tools: Git, Docker, Jenkins
 
 Contributions:
