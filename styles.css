@@ -1,0 +1,21 @@
+body {
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-size: 80px;
+}
